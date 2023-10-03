@@ -14,7 +14,7 @@ from Bio.PDB import PDBParser, FastMMCIFParser, Superimposer, PDBIO
 from Bio.PDB.Polypeptide import is_aa
 
 from Bio import pairwise2
-from Bio.SubsMat import MatrixInfo as matlist
+#from Bio.SubsMat import MatrixInfo as matlist
 from Bio.Data.SCOPData import protein_letters_3to1 as aa3to1
 
 def align_sequences(structA, structB, **kwargs):
