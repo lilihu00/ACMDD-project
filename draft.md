@@ -2,13 +2,13 @@
 
     Introduction
     
-    The human body holds a complex network of various signaling receptors that are involved in a wide range of physiological processes. Amongst them, the adenosine A1 receptor (A1R), a G-protein coupled receptor (GPCR) family, is a pivotal mediator. This receptor is predominantly expressed in the brain, heart, and vasculature, and plays a crucial role in modulating neurotransmission, neuronal activity, and cardiovascular homeostasis.<sup>1</sup> Considering its involvement in these processes, A1R has shown to be involved in numerous disorders, including neurological and cardiovascular conditions.<sup>2,3</sup> For instance, chronic agonistic activation of A1R has been linked with A1R-dependent accumulation of a-synuclein, which on long-term promotes neurodegeneration.<sup>4,5</sup> Consequently, A1R has been suggested as a potential target in neurodegenerative disorders such as Parkinson’s disease.<sup>6</sup> Furthermore, the implications of A1R overexpression also extend to cardiovascular conditions like ischemic strokes. Activation of the A1 receptor during ischemic events has shown to aggravate neuronal damage and lead to increased infarct size.<sup>7</sup> Thus, the use of A1 receptor antagonists may be a potential treatment option to alleviate the detrimental effects of an ischemic stroke.
+    The human body holds a complex network of various signaling receptors that are involved in a wide range of physiological processes. Amongst them, the adenosine A1 receptor         (A1R), a G-protein coupled receptor (GPCR) family, is a pivotal mediator. This receptor is predominantly expressed in the brain, heart, and vasculature, and plays a crucial        role in modulating neurotransmission, neuronal activity, and cardiovascular homeostasis.<sup>1</sup> Considering its involvement in these processes, A1R has shown to be involved in numerous disorders, including neurological and cardiovascular conditions.<sup>2,3</sup> For instance, chronic agonistic activation of A1R has been linked with A1R-dependent accumulation of a-synuclein, which on long-term promotes neurodegeneration.<sup>4,5</sup> Consequently, A1R has been suggested as a potential target in neurodegenerative disorders such as Parkinson’s disease.<sup>6</sup> Furthermore, the implications of A1R overexpression also extend to cardiovascular conditions like ischemic strokes. Activation of the A1 receptor during ischemic events has shown to aggravate neuronal damage and lead to increased infarct size.<sup>7</sup> Thus, the use of A1 receptor antagonists may be a potential treatment option to alleviate the detrimental effects of an ischemic stroke.
     
-    "1.\tDescribe the target (your report should contain at least the following information):\n",
-    "-\tPathology (why are we interested in the target?)\n",
-    "-\tClinical drugs available (which drugs are on the market)\n",
-    " \tAlso use ATC information to further describe the drugs. \n",
-    "-\tProtein information (what family of proteins is the target a member off, where is it located in the body?)\n",
+    Describe the target (your report should contain at least the following information):
+    -    Pathology (why are we interested in the target?
+    -    Clinical drugs available (which drugs are on the market)
+    -    tAlso use ATC information to further describe the drugs.
+    -    Protein information (what family of proteins is the target a member off, where is it located in the body?)
     "\n",
     "### Related proteins (off-targets), based on sequence\n",
     "\n",
