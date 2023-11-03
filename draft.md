@@ -1,8 +1,3 @@
-{
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "\n",
     "# Title\n",
     "\n",
     "### Introduction\n",
@@ -57,5 +52,3 @@
     "\n",
     "![Image info](img/alignment_ncbi.png)\n",
     "\n"
-   ]
-  },
