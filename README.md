@@ -1,2 +1,4 @@
 # CBR_teaching
-Thanks for the nice module! Our report can be found as 'Report.ipynb'! We also uploaded our library as it was impossible to display in a singular OK-sized figure. 
+Thanks for the nice module! Our report can be found as 'Report.ipynb' and our presentation slides as 'ACMDD_Presentation_A1R.pdf'! We also uploaded our library as it was impossible to display it in a singular OK-sized figure for the report (see 'prediction score.xlsx'). 
+Kind regards, 
+Zeynep, Lili, Katie
